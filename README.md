@@ -8,7 +8,7 @@ A simple full-stack CRUD application for managing hotel records, built with:
 
 ## 📸 Screenshot
 
-![App Screenshot](image.png)
+![App Screenshot](image1.png)
 
 > Place your `image1.png` screenshot in the same folder as this README so it renders correctly.
 
